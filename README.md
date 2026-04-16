@@ -5,7 +5,7 @@
 <br>
 
 [![Devlog](https://img.shields.io/badge/Devlog-ainsoph.workers.dev-000000?style=flat-square&logo=cloudflare&logoColor=00FF41)](https://devlog.ainsoph.workers.dev/)
-[![GitHub](https://img.shields.io/badge/GitHub-igorassis-000000?style=flat-square&logo=github&logoColor=00FF41)](https://github.com/igorassis)
+[![GitHub](https://img.shields.io/badge/GitHub-0xA1n50ph-000000?style=flat-square&logo=github&logoColor=00FF41)](https://github.com/0xA1n50ph)
 [![Hack The Box](https://img.shields.io/badge/Hack_The_Box-AinSoph-000000?style=flat-square&logo=hackthebox&logoColor=9FEF00)](https://app.hackthebox.com/public/users/2023805)
 
 </div>
@@ -101,14 +101,14 @@ Beyond the day job, I'm deep into **game development**, **low-level graphics pro
 
 <div align="center">
 
-<a href="https://github.com/igorassis">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=igorassis&show_icons=true&theme=chartreuse-dark&bg_color=0D1117&hide_border=true&icon_color=00FF41&title_color=00FF41&text_color=C9D1D9&ring_color=00FF41" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorassis&layout=compact&theme=chartreuse-dark&bg_color=0D1117&hide_border=true&title_color=00FF41&text_color=C9D1D9" />
+<a href="https://github.com/0xA1n50ph">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=0xA1n50ph&show_icons=true&theme=chartreuse-dark&bg_color=0D1117&hide_border=true&icon_color=00FF41&title_color=00FF41&text_color=C9D1D9&ring_color=00FF41" />
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xA1n50ph&layout=compact&theme=chartreuse-dark&bg_color=0D1117&hide_border=true&title_color=00FF41&text_color=C9D1D9" />
 </a>
 
 <br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=igorassis&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=FFB000&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=555555)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=0xA1n50ph&theme=dark&hide_border=true&background=0D1117&ring=00FF41&fire=FFB000&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=555555)](https://git.io/streak-stats)
 
 </div>
 
@@ -116,10 +116,10 @@ Beyond the day job, I'm deep into **game development**, **low-level graphics pro
 
 <div align="center">
 
-<img src="https://github.com/igorassis/igorassis/blob/output/github-snake-dark.svg" alt="Snake animation" />
+<img src="https://github.com/0xA1n50ph/0xA1n50ph/blob/output/github-snake-dark.svg" alt="Snake animation" />
 
 <br><br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=igorassis&color=00FF41&style=flat-square&label=VISITORS)
+![Profile Views](https://komarev.com/ghpvc/?username=0xA1n50ph&color=00FF41&style=flat-square&label=VISITORS)
 
 </div>
