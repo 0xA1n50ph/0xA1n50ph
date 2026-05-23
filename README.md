@@ -69,9 +69,9 @@ Beyond the day job, I'm deep into **game development**, **low-level graphics pro
 
 ```
 [GAMEDEV]   🎮 Building indie games in Godot Engine — working with GDScript,
-            custom shaders (post-processing, dithering, Voronoi patterns),
-            composition-based architecture, procedural generation, physics
-            systems, SubViewport UI, and multiplayer networking.
+            custom shaders, composition-based architecture, procedural 
+            generation, physics systems, SubViewport UI, and 
+            multiplayer networking.
 
 [GRAPHICS]  🖥️ Studying low-level rendering with C++/OpenGL & Raylib —
             GLAD/GLFW setup, VBOs/VAOs, shader pipelines, and writing about
@@ -84,15 +84,13 @@ Beyond the day job, I'm deep into **game development**, **low-level graphics pro
             NumPy, scikit-learn & XGBoost.
 
 [MUSIC]     🎸 Music production in FL Studio & electric guitar — home studio
-            setup, audio interface configuration, signal processing, and
-            passive filter circuit design.
+            setup, signal processing, and passive filter circuit design.
 
 [RETRO]     🕹️ Retro hardware enthusiast — collecting, restoring, and modding
             classic consoles (N64, PS1, PS2, 3DS, handhelds), custom firmware,
             and emulation workflows.
 
-[DEVLOG]    📝 Maintaining a personal devlog built with Astro + Cloudflare
-            Pages — documenting the journey, one commit at a time.
+[DEVLOG]    📝 Maintaining a personal devlog built with Astro — documenting the journey, one commit at a time.
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
