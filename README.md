@@ -90,7 +90,8 @@ Beyond the day job, I'm deep into **game development**, **low-level graphics pro
             classic consoles (N64, PS1, PS2, 3DS, handhelds), custom firmware,
             and emulation workflows.
 
-[DEVLOG]    📝 Maintaining a personal devlog built with Astro — documenting the journey, one commit at a time.
+[DEVLOG]    📝 Maintaining a personal devlog built with Astro — documenting the
+            journey, one commit at a time.
 ```
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
