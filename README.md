@@ -102,8 +102,8 @@ Beyond the day job, I'm deep into **game development**, **low-level graphics pro
 <div align="center">
 
 <a href="https://github.com/0xA1n50ph">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=0xA1n50ph&show_icons=true&theme=chartreuse-dark&bg_color=0D1117&hide_border=true&icon_color=00FF41&title_color=00FF41&text_color=C9D1D9&ring_color=00FF41" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xA1n50ph&layout=compact&theme=chartreuse-dark&bg_color=0D1117&hide_border=true&title_color=00FF41&text_color=C9D1D9" />
+  <img height="170em" src="./profile/stats.svg" />
+  <img height="170em" src="./profile/top-langs.svg" />
 </a>
 
 <br>
